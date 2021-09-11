@@ -55,9 +55,11 @@ With our goal in mind, I start with scoping the project. I picked the gaming and
 1) Prop_1: Prop that Resnet50 predicts, with the highest probability, is present in the image.
 2) Prop_2: Prop that Resnet50 predicts, with the second highest probability, is present in the image.
 3) Prop_3: Prop that Resnet50 predicts, with the third highest probability, is present in the image.
-.
-.
-.
+4) Prop_4: Prop that Resnet50 predicts, with the fourth highest probability, is present in the image.
+5) Prop_5: Prop that Resnet50 predicts, with the fifth highest probability, is present in the image.
+6) Prop_6: Prop that Resnet50 predicts, with the sixth highest probability, is present in the image.
+7) Prop_7: Prop that Resnet50 predicts, with the seventh highest probability, is present in the image.
+8) Prop_8: Prop that Resnet50 predicts, with the eighth highest probability, is present in the image..
 9) Prop_9: Prop that Resnet50 predicts, with the ninth highest probability, is present in the image.
 10) performance: Like number divided by account's follower count
 11) Like_number: number of likes received by the post
